@@ -1,0 +1,18 @@
+commit dafceb9c378d242a8da2b2a6e64ee4520bee2c76 (HEAD -> master, origin/master)
+Author: zhandonbi <zhandonbi@163.com>
+Date:   Thu Feb 6 17:13:25 2020 +0800
+
+    master写有了任务目标
+
+commit 655f2b56d9ade1112b201eb945c4dbb6ef2fc496
+Author: zhandonbi <zhandonbi@163.com>
+Date:   Mon Feb 3 08:48:30 2020 +0800
+
+    添加了git学习要求
+
+commit 261e892f4e9354c6ad4f97a33fd2fc6effd8160f
+Author: zhandonbi <zhandonbi@163.com>
+Date:   Mon Feb 3 08:40:59 2020 +0800
+
+    Initial commit
+
