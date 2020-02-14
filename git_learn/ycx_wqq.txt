@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Commits on Feb 9, 2020
 
     除去了无用信息
@@ -22,6 +23,15 @@ Commits on Feb 6, 2020
     zhandonbi committed 3 days ago
 
 master写有了任务目标
+=======
+Commits on Feb 6, 2020
+
+    git_learn--zhandonbi
+    @zhandonbi
+    zhandonbi committed 3 days ago
+
+添加了gitit_learn分支
+>>>>>>> 94e32c1fc62200b2c142a93595a8cccfa2408ab5
 @zhandonbi
 zhandonbi committed 3 days ago
 Commits on Feb 3, 2020

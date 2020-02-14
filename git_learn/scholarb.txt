@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit 7611664238da0c20223ae7e4bad3a9f8ff5a5790 (HEAD -> master, origin/master)
 Author: zhandonbi <zhandonbi@163.com>
 Date:   Tue Feb 11 19:11:04 2020 +0800
@@ -78,3 +79,7 @@ Date:   Mon Feb 3 08:40:59 2020 +0800
 
     Initial commit
 (END)
+=======
+git@github.com:zhandonbi/RC_L.git
+scholarb
+>>>>>>> 94e32c1fc62200b2c142a93595a8cccfa2408ab5
